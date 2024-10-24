@@ -1,2 +1,5 @@
 # TelecomDBMS
 The Telecommunication management system aims to create a database system that efficiently manages customer's telecom services. The system will contain multiple relational tables, allowing customer representatives to view and manage their network and service. Handling large amounts of telecom data can be a tedious task. This system will provide a solution to handle, store, and manage large amounts of data with accuracy ensuring that all required data is present in the table. Customers will be able to view their account information, billing history, and usage, explore various plans, and submit feedback. The system will manage billing and payment processing, including invoicing. MySQL is an excellent choice for the project, given its open-source, flexible, and powerful database management system. Overall, this Telecommunication management system will be a useful tool for both providers and customers to avail telecom services effortlessly.
+
+![image](https://github.com/user-attachments/assets/df74af74-d2ac-4182-9568-22becd2e91c5)
+
